@@ -1,0 +1,17 @@
+# Git
+#coding/studies/git
+
+* Free Git book:
+— https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+— https://git-scm.com/book/en/v2
+— https://www.juniordevelopercentral.com/git-quick-start/
+— https://www.bogotobogo.com/cplusplus/Git/Git_GitHub_Express.php
+— vk wall post
+— Other Git resources: https://cssauthor.com/resources-for-learning-git-and-github/
+
+* Free Udemy Git courses:
+https://javarevisited.blogspot.com/2018/01/5-free-git-courses-for-programmers-to-learn-online.html?m=1
+
+* Git practice:
+— https://github.com/Syknapse/Contribute-To-This-Project
+— common git workflows
