@@ -1,3 +1,6 @@
 ???
 again
+<<<<<<< HEAD
 boom
+=======
+>>>>>>> 874d5beafd072b047d6e3660a18b450d05dd8f61
